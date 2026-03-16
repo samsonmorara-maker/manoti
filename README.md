@@ -1,2 +1,2 @@
 # Smart Apartment Search Made Simple
-## This project is a website that helps users search and discover houses and apartments by viewing lists,prices,location, and property details in one convenient platform
+### This project is a web platform designed to help people easily find and explore available apartments and houses. The website allows user to browse different apartment and house listing,view images,check prices,and see important details such as location, size, and amenities.Its goal is to make the process of searching for a home simple,fast, and convenient by bringing apartment and house information together in one place.
