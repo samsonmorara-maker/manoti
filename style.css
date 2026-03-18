@@ -8,3 +8,9 @@
     font-size: x-large;
 
 }
+.hero{
+    background-color:yellowgreen;
+    height: auto;
+    position: relative;
+    height: 80vh;
+}
