@@ -2,6 +2,7 @@
     text-align: center;
     color: paleturquoise;
     font-size: xx-large;
+
 }
 .introduction{
     text-align: center;
@@ -10,7 +11,6 @@
 }
 .hero{
     background-color:yellowgreen;
-    height: auto;
     position: relative;
     height: 80vh;
 }
